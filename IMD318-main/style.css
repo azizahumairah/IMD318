@@ -1,0 +1,22 @@
+h1 {
+	border:solid 3.5px;
+	border-color-blue;
+	  background-color:pink;
+	  color:brown;
+	  text-align:center}
+	  
+	  body {
+	  font-family:times new roman;
+	  background-color:pink}
+	  
+	  p {
+	  color:green;}
+	  
+	  ol {background-color:cyan;
+	  border: solid 2px;
+	  border-color:red;
+	  border-top-style: dotted;
+	  border-bottom-style:dashed;
+	  padding-top: 5px}
+	  
+	  
